@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure>
+    <deployment>
+        <!--<dependencies>-->
+            <!--&lt;!&ndash; <module name="com.prisma.libs" export="true"/> &ndash;&gt;-->
+            <!--&lt;!&ndash; <module name="javax.persistence.api" export="true" /> &ndash;&gt;-->
+            <!--<module name="id.co.prismalink.libs">-->
+                <!--<imports>-->
+                    <!--<include path="META-INF**" />-->
+                    <!--<include path="org**" />-->
+                <!--</imports>-->
+            <!--</module>-->
+        <!--</dependencies>-->
+    </deployment>
+</jboss-deployment-structure>
